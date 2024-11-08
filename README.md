@@ -3,6 +3,7 @@ Program berisi tentang simulasi Pet Cafe
 
 
 Program ini adalah program simulasi Pet Cafe yang mengelola interaksi antara karakter manusia dan hewan peliharaan di sebuah kafe hewan peliharaan. Menggunakan struktur data untuk menyimpan informasi tentang manusia dan hewan peliharaan, program memungkinkan pengguna untuk menambahkan karakter, melakukan aksi seperti mengelus hewan peliharaan yang meningkatkan jumlah loves hewan, memberikan bantuan kepada manusia yang juga meningkatkan loves mereka, serta menampilkan atribut karakter. Selain itu, player dapat melihat dan mengurutkan hewan peliharaan berdasarkan jumlah loves mereka. Program beroperasi dalam loop interaktif, menerima perintah dari player hingga mereka memilih untuk keluar dengan mengetik "exit", di mana program akan menampilkan pesan penutup. Program terdiri dari diantaranya:
+
 Struktur Data
 1. Human: Struktur data ini menyimpan informasi tentang manusia, termasuk:
    - name: Nama manusia.
